@@ -2,7 +2,7 @@
 
 A robust, object-oriented console application developed in Java to model core banking operations, concurrent transaction handling, and a rules-based fraud detection system. 
 
-**Developed By:** Saurish Modgil (Reg: 25BAI10891)
+**Developed By:** Uddhav Varshney (Reg: 25BAI10140)
 
 ## 📌 Features
 
